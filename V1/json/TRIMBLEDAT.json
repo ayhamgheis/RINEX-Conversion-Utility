@@ -1,0 +1,46 @@
+{
+    "g": {
+        "C1C": "W_all.Wo_l2c_l2,C1",
+	"C1W": "",
+	"C1X": "",
+	"C2C": "",
+        "C2W": "W_all.Wo_l2c_l2,P2",
+	"C2X": "W_all.Wo_l2c_l2,C2",
+	"C5X": "",
+        "L1C": "W_all.Wo_l2c_l2,L1",
+	"L1X": "",
+        "L2W": "W_l5,L2",
+	"L2X": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g1,L2",
+	"L5X": "",
+	"D1C": "Wo_o.obs.d1,D1",
+	"D1X": "",
+	"D2W": "Wo_o.obs.d2,D2",
+	"D5X": "",
+	"S1C": "W_all.Wo_l2c_l2,S1",
+	"S1X": "W_all.Wo_l2c_l2,S7",
+	"S2W": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g1,S2",
+	"S2X": "W_all.Wo_l2c_l2,S2",
+	"S5X": ""
+    },
+    "r": {
+        "C1C": "W_all.Wo_l2c_l2,C1",
+        "C1P": "W_all.Wo_l2c_l2,P1",
+        "C2C": "W_all.Wo_l2c_l2,C2",
+        "C2P": "W_all.Wo_l2c_l2,P2",
+        "C3Q": "W_all.Wo_l2c_l2,C7",
+	"D1C": "Wo_o.obs.d1,D1",
+	"D2C": "Wo_o.obs.d2,D2",
+	"D3Q": "Wo_o.obs.d7,D7",
+        "L1C": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.W_sa_g1,L1",
+        "L1P": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g1,L1",
+        "L2C": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.W_sa_g2,L2",
+        "L2P": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g2,L2",
+        "L3Q": "W_all.Wo_l2c_l2,L7",
+        "S1C": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.W_sa_g1,S1",
+        "S1P": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g2,S1",
+        "S2C": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.W_sa_g2,S2",
+        "S2P": "W_r.Wo_e.Wo_s.Wo_c.Wo_j.Wo_sa_g2,S2",
+        "S3Q": "W_all.Wo_l2c_l2,S7"
+    }
+}
+
